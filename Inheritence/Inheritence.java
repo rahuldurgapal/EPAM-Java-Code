@@ -80,7 +80,6 @@ public class Inheritence {
         System.out.println("Employee Name: " + e.getName());
         System.out.println("Employee email: " +e.getEmail());
         System.out.println("Employee Salary: " + e.getSalary());
-        
     }
 }
 
