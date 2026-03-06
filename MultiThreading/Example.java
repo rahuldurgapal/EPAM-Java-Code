@@ -25,7 +25,7 @@ class Account {
 
 class Customer implements Runnable {
 
-    private Account account;
+    private Account account;  // Common or Shared Variable, resource
     private String name;
 
     public Customer (Account account, String name) {
